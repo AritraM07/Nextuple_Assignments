@@ -1,0 +1,114 @@
+[
+    {
+        "firstname": "Harvey",
+        "lastname": "Spectre",
+        "totalprice": 110,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-01-10",
+            "checkout": "2024-01-14"
+        },
+        "additionalneeds": "None"
+    },
+    {
+        "firstname": "Name2",
+        "lastname": "Surname2",
+        "totalprice": 120,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-01-10",
+            "checkout": "2024-01-14"
+        },
+        "additionalneeds": "Breakfast"
+    },
+    {
+        "firstname": "Name3",
+        "lastname": "Surname3",
+        "totalprice": 130,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-01-10",
+            "checkout": "2024-01-19"
+        },
+        "additionalneeds": "None"
+    },
+    {
+        "firstname": "Name4",
+        "lastname": "Surname4",
+        "totalprice": 140,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-05-10",
+            "checkout": "2024-06-14"
+        },
+        "additionalneeds": "Breakfast"
+    },
+    {
+        "firstname": "Name5",
+        "lastname": "Surname5",
+        "totalprice": 150,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-01-15",
+            "checkout": "2024-02-19"
+        },
+        "additionalneeds": "None"
+    },
+    {
+        "firstname": "Name6",
+        "lastname": "Surname6",
+        "totalprice": 160,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-01-11",
+            "checkout": "2024-01-12"
+        },
+        "additionalneeds": "Breakfast"
+    },
+    {
+        "firstname": "Name7",
+        "lastname": "Surname7",
+        "totalprice": 170,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-01-18",
+            "checkout": "2024-01-22"
+        },
+        "additionalneeds": "None"
+    },
+    {
+        "firstname": "Name8",
+        "lastname": "Surname8",
+        "totalprice": 180,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-01-18",
+            "checkout": "2024-01-28"
+        },
+        "additionalneeds": "Breakfast"
+    },
+    {
+        "firstname": "Name9",
+        "lastname": "Surname9",
+        "totalprice": 190,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-01-16",
+            "checkout": "2024-01-20"
+        },
+        "additionalneeds": "None"
+    },
+    {
+        "firstname": "Name10",
+        "lastname": "Surname10",
+        "totalprice": 200,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-01-14",
+            "checkout": "2024-01-26"
+        },
+        "additionalneeds": "Breakfast"
+    }
+]
+
+
